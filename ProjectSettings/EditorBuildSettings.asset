@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu.unity
+    guid: c67523fbf43fde5468abd9fcd0fdcc69
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene0.unity
+    guid: 1dda36f6726ac0c4b8e3f0032e99cc53
+  - enabled: 1
+    path: Assets/Game/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseZero.unity
+    guid: f878437bf3bef94488468e0a59ba2a29
+  - enabled: 1
+    path: Assets/Game/Scenes/Two_SC.unity
+    guid: 6a4c5b6f6285c8c448f8e79ccf21ea2d
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseOne.unity
+    guid: 004ae20e517cfd2408b23cd6295156e9
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene1.unity
+    guid: 82bea9b3d4d1194428f1b3b59509879c
+  - enabled: 1
+    path: Assets/Game/Scenes/Three_SC.unity
+    guid: 753504a66e4c55b43922311dfb720921
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseTwo.unity
+    guid: 5dec8eb206ee51d4486df259b9734652
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene2.unity
+    guid: 4e17adde5fd2f0a49ae058d5701aebec
+  - enabled: 1
+    path: Assets/Game/Scenes/Four_SC.unity
+    guid: 9a3b5233d3928784da0a9a9ef152ce4f
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene3.unity
+    guid: f7e3b8277972f814298747d22958fb5f
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseThree.unity
+    guid: be7e9b338a068e249a8135562cadc4ac
+  - enabled: 1
+    path: Assets/Game/Scenes/Five_SC.unity
+    guid: 71ea7bed44f30664299d95a03627246f
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseFour.unity
+    guid: 93767ff4cd76c1f489ede9eb544586ac
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene4.unity
+    guid: fde15db547f22544bbcade19f1b38453
+  - enabled: 1
+    path: Assets/Game/Scenes/Six_SC.unity
+    guid: 40cc97f53b00f2644a74faee9129c327
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseFive.unity
+    guid: cfc7b184d44477a4184df9f06ca7d10d
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene5.unity
+    guid: 91b48220ca6af924fa3668a8dac49837
+  - enabled: 1
+    path: Assets/Game/Scenes/Seven_SC.unity
+    guid: 06d05c36195f19b4e8fe277aebc2c9dc
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene6.unity
+    guid: 22eb5bfd837836144b79c63a74f7ae1c
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseSix.unity
+    guid: b4df09219ea4596498a4a3865b87dcee
+  - enabled: 1
+    path: Assets/Game/Scenes/FaseSeven.unity
+    guid: 4e2737f9a39237a4f82d7b8342bb49a4
+  - enabled: 1
+    path: Assets/Game/Resources/Video/Cutscenes/Cutscene7.unity
+    guid: 3c663897da429d44991d8d0f8b24d6e3
+  - enabled: 1
+    path: Assets/Game/Scenes/GameOver.unity
+    guid: da64b0a2b2ad9e14d83b7952546f565d
+  - enabled: 1
+    path: Assets/Game/Scenes/Parabens.unity
+    guid: df82060e75482dd4aac533b483c4d63c
+  - enabled: 1
+    path: Assets/Game/Scenes/Credits.unity
+    guid: 9dc8479432a908d4fa0f5724670f0681
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

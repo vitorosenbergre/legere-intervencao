@@ -1,0 +1,5 @@
+C:/Users/vicor/OneDrive/Documentos/GitHub/Legere2/Legere2/.utmp/RelWithDebInfo/6h344b6t/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/vicor/OneDrive/Documentos/GitHub/Legere2/Legere2/.utmp/RelWithDebInfo/6h344b6t/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/vicor/OneDrive/Documentos/GitHub/Legere2/Legere2/.utmp/RelWithDebInfo/6h344b6t/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/vicor/OneDrive/Documentos/GitHub/Legere2/Legere2/.utmp/RelWithDebInfo/6h344b6t/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/vicor/OneDrive/Documentos/GitHub/Legere2/Legere2/.utmp/RelWithDebInfo/6h344b6t/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
